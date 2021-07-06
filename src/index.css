@@ -1,13 +1,193 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+#MHA{
+  height: 600px;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#AOT{
+  height: 600px;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#AOT-text{
+  margin: 5px;
+  text-align: center;
+}
+
+#OnePiece-text{
+  margin: 5px;
+  text-align: center;
+  color: white;
+}
+
+#toxic-meter{
+  color: white;
+  margin: 5px;
+  
+}
+
+#one-piece-btn{
+  margin: 20px
+}
+
+#OnePiece-jpg{
+  height: 500px;
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#OnePiece-div{
+  background-color:dodgerblue
+}
+
+#AOT-body{
+  background-color:blue
+}
+
+#AOT-btn{
+  margin: 10px;
+}
+
+#AOT-toxic{
+  margin: 5px;
+}
+
+#AOT-div{
+  background-color:gray
+}
+
+#DBZ{
+  height: 650px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#JJK{
+  height: 650px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#Anime-Poster{
+  height: 650px;
+  width: 900px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Intro{
+  text-align: center;
+ 
+}
+
+#intro-div{
+  background-color: deepskyblue;
+}
+
+#Naruto-title{
+  text-align: center;
+}
+
+#Naruto-cover{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#naruto-text{
+  margin: 20px;
+  text-align: center;
+}
+
+#Naruto-Background{
+  background-color: orangered;
+}
+
+#naruto-prev{
+  margin: 20px;
+}
+
+#MHA-background{
+  background-color: seagreen;
+}
+
+#title{
+ 
+  text-align: center;
+  color: darkred;
+}
+
+#MHA-text{
+  color: darkred;
+  margin: 5px;
+  text-align: center;
+}
+
+#MHA-toxic{
+  color: darkred;
+}
+
+#MHA-button{
+  margin: 20px;
+}
+
+#DBZ-Title{
+  text-align: center;
+  color: crimson;
+}
+
+#DBZ-Text {
+  color: crimson;
+  margin:5px;
+  text-align: center;
+}
+
+#DBZ-Div{
+  background-color: goldenrod;
+}
+
+#DBZ-Toxic{
+  color: crimson;
+  margin: 5px;
+}
+
+#DBZ-BTN{
+  margin: 5px;
+}
+
+#JJK-Div{
+  background-color: black;
+}
+
+#JJK-Title{
+  color:rgba(223, 223, 6, 0.712);
+  text-align: center;
+}
+
+#JJK-Text{
+  color:rgba(223, 223, 6, 0.712);
+  text-align: center;
+  margin: 2px
+}
+
+#JJK-Toxic{
+  color: rgba(223, 223, 6, 0.712);
+  
+}
+
+#JJK-Btn{
+  margin: 10px;
 }
